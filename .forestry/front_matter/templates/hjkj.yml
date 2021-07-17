@@ -1,4 +1,12 @@
 ---
 label: hjkj
 hide_body: true
-fields: []
+fields:
+- name: isNew
+  type: boolean
+  label: isNew
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
