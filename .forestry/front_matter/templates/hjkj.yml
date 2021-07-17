@@ -10,3 +10,5 @@ fields:
   config:
     required: false
   label: title
+pages:
+- src/components/test1.md
